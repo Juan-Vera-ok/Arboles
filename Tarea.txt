@@ -1,0 +1,9 @@
+Mostrar todos los nodos que son hijo izquierdo
+
+Mostrar nodos pares y que son nodos hojas
+
+Mostrar nodos pares y que no son nodos hojas
+
+determinar si dos abb son similares
+
+determinar si dos abb son identicos
